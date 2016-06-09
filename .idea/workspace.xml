@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaa674ca-54f1-4cfc-b6e8-2c6c089d3189" name="Default" comment="">
+    <list default="true" id="eaa674ca-54f1-4cfc-b6e8-2c6c089d3189" name="Default" comment="terminado el test calcularPerimetro2, funcionando">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestCuadrilatero.java" afterPath="$PROJECT_DIR$/src/test/java/TestCuadrilatero.java" />
     </list>
@@ -39,8 +39,8 @@
       <file leaf-file-name="TestCuadrilatero.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCuadrilatero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5225464">
-              <caret line="40" column="34" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.3580902">
+              <caret line="50" column="28" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -591,7 +591,13 @@
       <option name="project" value="LOCAL" />
       <updated>1465502231135</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="terminado el test calcularPerimetro2, funcionando">
+      <created>1465502262491</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1465502262491</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -676,7 +682,8 @@
     <MESSAGE value="estan incluidos o no puntos" />
     <MESSAGE value="terminado el test crearCuadrilatero, funcionando" />
     <MESSAGE value="terminado el test calcularPerimetro, funcionando" />
-    <option name="LAST_COMMIT_MESSAGE" value="terminado el test calcularPerimetro, funcionando" />
+    <MESSAGE value="terminado el test calcularPerimetro2, funcionando" />
+    <option name="LAST_COMMIT_MESSAGE" value="terminado el test calcularPerimetro2, funcionando" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -791,8 +798,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCuadrilatero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5225464">
-          <caret line="40" column="34" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.3580902">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="28" />
           <folding />
         </state>
       </provider>
