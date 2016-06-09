@@ -24,7 +24,7 @@ public class TestCuadrilatero {
 
     }
 
-/*
+
     @Test
     public void calcularPerimetro() {
         Punto esquinaInferiorIzquierda = new Punto(6, 2);
@@ -36,6 +36,7 @@ public class TestCuadrilatero {
 
     }
 
+    /*
     @Test
     public void calcularPerimetro2() {
         Punto esquinaInferiorIzquierda = new Punto(0, 0);
