@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eaa674ca-54f1-4cfc-b6e8-2c6c089d3189" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestCuadrilatero.java" afterPath="$PROJECT_DIR$/src/test/java/TestCuadrilatero.java" />
     </list>
     <ignored path="1.0.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,7 +38,7 @@
       <file leaf-file-name="TestCuadrilatero.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCuadrilatero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6100796">
+            <state vertical-scroll-proportion="-0.4111406">
               <caret line="70" column="40" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="40" />
               <folding />
             </state>
@@ -609,7 +608,13 @@
       <option name="project" value="LOCAL" />
       <updated>1465502314032</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="terminado el test modificarTamañoDeVentana, funcionando">
+      <created>1465502333304</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1465502333304</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -629,6 +634,9 @@
       <configuration name="All in 1.0.0" configurationId="JUnit" />
     </history-entry>
     <history-entry file="All_in_1_0_0 - 2016.06.09 at 16h 57m 20s.xml">
+      <configuration name="All in 1.0.0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_1_0_0 - 2016.06.09 at 16h 59m 01s.xml">
       <configuration name="All in 1.0.0" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestCuadrilatero_calcularArea - 2016.06.09 at 16h 36m 06s.xml">
@@ -655,7 +663,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24924472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -697,7 +705,8 @@
     <MESSAGE value="terminado el test calcularPerimetro2, funcionando" />
     <MESSAGE value="terminado el test calcularArea, funcionando" />
     <MESSAGE value="terminado el test calcularArea1, funcionando" />
-    <option name="LAST_COMMIT_MESSAGE" value="terminado el test calcularArea1, funcionando" />
+    <MESSAGE value="terminado el test modificarTamañoDeVentana, funcionando" />
+    <option name="LAST_COMMIT_MESSAGE" value="terminado el test modificarTamañoDeVentana, funcionando" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -812,7 +821,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCuadrilatero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6100796">
+        <state vertical-scroll-proportion="-0.4111406">
           <caret line="70" column="40" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="40" />
           <folding />
         </state>
