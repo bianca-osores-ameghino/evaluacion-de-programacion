@@ -114,6 +114,6 @@ public class TestPunto {
         Assert.assertEquals(punto3.x, 3);
         Assert.assertEquals(punto3.y, 5);
     }
-    /**/
+
 
 }
