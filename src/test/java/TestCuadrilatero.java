@@ -110,7 +110,6 @@ public class TestCuadrilatero {
         Assert.assertTrue(cuadradado.noEstaIncluido(p8));
         Assert.assertTrue(cuadradado.noEstaIncluido(p9));
     }
-*/
 
-
+    */
 }
