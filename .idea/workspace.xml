@@ -39,8 +39,8 @@
       <file leaf-file-name="TestCuadrilatero.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCuadrilatero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56233424">
-              <caret line="68" column="2" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.6100796">
+              <caret line="70" column="40" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -603,7 +603,13 @@
       <option name="project" value="LOCAL" />
       <updated>1465502297076</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="terminado el test calcularArea1, funcionando">
+      <created>1465502314032</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1465502314032</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -690,7 +696,8 @@
     <MESSAGE value="terminado el test calcularPerimetro, funcionando" />
     <MESSAGE value="terminado el test calcularPerimetro2, funcionando" />
     <MESSAGE value="terminado el test calcularArea, funcionando" />
-    <option name="LAST_COMMIT_MESSAGE" value="terminado el test calcularArea, funcionando" />
+    <MESSAGE value="terminado el test calcularArea1, funcionando" />
+    <option name="LAST_COMMIT_MESSAGE" value="terminado el test calcularArea1, funcionando" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -805,8 +812,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCuadrilatero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56233424">
-          <caret line="68" column="2" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.6100796">
+          <caret line="70" column="40" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="40" />
           <folding />
         </state>
       </provider>

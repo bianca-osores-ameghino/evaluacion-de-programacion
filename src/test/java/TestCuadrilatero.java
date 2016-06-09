@@ -66,7 +66,7 @@ public class TestCuadrilatero {
 
         Assert.assertEquals(4, cuadradado.area());
     }
-/*
+
     @Test
     public void modificarTamañoDeVentana() {
         Punto esquinaInferiorIzquierda = new Punto(0, 0);
@@ -81,7 +81,7 @@ public class TestCuadrilatero {
 
         Assert.assertEquals(200, cuadradado.area());
     }
-
+/*
     @Test
     public void estanIncluidosPuntos() {
         Punto esquinaInferiorIzquierda = new Punto(0, 0);
